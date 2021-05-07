@@ -1,0 +1,18 @@
+* body{
+    background-color: azure;
+}
+h1 {
+    color:rgb(233, 25, 25);
+    text-align: center;
+  }
+  h2{
+      text-align: center;
+  }
+  P {
+      text-transform: capitalize;
+      text-align-last: center;
+      
+  }
+tr {
+    text-align: center;
+}
